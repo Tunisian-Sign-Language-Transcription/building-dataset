@@ -15,6 +15,7 @@ These are the rules we imposed when we shot the videos:
 - Min/Max quality: 720p
 - Framing: follow "Medical Dictionary in Tunisian Sign Languages" picture framing
 - Sign speed: calibrate to one of the interpreters' signing speed
+- Orientation: vertical
 
 ## Contacts
 These are the various individuals and entities that helped us on this process
