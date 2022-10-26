@@ -9,6 +9,13 @@
    ## Automation
    We've used a python script to generate a folder for each word using Google Drive's API. We've divided the work among ourselves so that each member has 10 words. Each member shoots a video (of themselves and other people) mimicking the signs for each of their words and then uploads them to their respective folder on drive.
 
+## Video shooting guidlines
+These are the rules we imposed when we shot the videos:
+- FPS (frames per second): 30
+- Min/Max quality: 720p
+- Framing: follow "Medical Dictionary in Tunisian Sign Languages" picture framing
+- Sign speed: calibrate to one of the interpreters' signing speed
+
 ## Contacts
 These are the various individuals and entities that helped us on this process
 - Association Voix du Sourd de Tunisie.
