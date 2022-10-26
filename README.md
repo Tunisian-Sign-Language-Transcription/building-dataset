@@ -13,4 +13,4 @@
 These are the various individuals and entities that helped us on this process
 - Association Voix du Sourd de Tunisie.
 - Association Tunisienne des Interprètes en Langues des Signes.
-- Syrine Ben Othman (General practitioner awaiting thesis).
+- Syrine Ben Othman (Family doctor).
