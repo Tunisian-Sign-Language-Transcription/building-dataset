@@ -1,0 +1,60 @@
+Pharmacien 
+Audioprothésiste 
+Infirmier 
+Médecin généraliste 
+Vertige 
+Virus 
+Vomissement 
+Hôpital 
+Stress 
+Tension élevée 
+Fièvre 
+Grippe 
+Évanouissement 
+Fatigue 
+Allergie 
+Bactéries 
+Brûlure d'estomac 
+Cancer 
+Covid-19 
+Dépression 
+Diabète 1 
+Diabète 2 
+Diarrhée 
+Douleur 
+Seins 
+Menstruation 
+Grossesse 
+Gynécologue
+Pénis
+Poitrine 
+Poumon 
+Thyroïde 
+Ventre 
+Visage 
+Yeux 
+Oreille 
+Langue
+Mains 
+Nez 
+gorge 
+Intestin grêle
+Jambe 
+Epaule 
+Foie  
+Bouche 
+Bras 
+Coeur  
+Dos 
+Bandage 
+Tensiomètre 
+Thermomètre 
+Analyse 
+CNAM 
+Médicament 
+Ordonnance médicale 
+Poids 
+Rendez-vous  
+Résultat 
+Vaccin 
+Vitamine 
